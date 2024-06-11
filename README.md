@@ -11,7 +11,7 @@
 ---
 
 - ✍ I'm currently studying DAW at IES L'ESTACIO (ONTINYENT)
-- 🏢 Actually I am CIO on TEJIDOS JVR
+- 🏢 Currently I am CIO on TEJIDOS JVR
 - ☁️ I'm very interested in new technologies Backend and Microsoft SQL-Server.
 - 📝 I'm married and live in Albaida, Valencia, Spain.
 - 📫 Feel free to reach me out **[jvrluis@hotmail.com](mailto:jvrluis@hotmail.com)**
@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=aws,ps,docker,git,css,powershell,github,html,java,js,mongodb,php,vscode,windows,powershell,Xpath,XML,a=15" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=aws,ps,docker,git,css,powershell,mysql,github,html,java,js,mongodb,php,vscode,windows,Xpath,XML,a=15" style="max-width: 100%;">
   </a>
 </div>
 
