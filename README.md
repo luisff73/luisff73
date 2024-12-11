@@ -35,6 +35,5 @@
  </div>
 
 <!-- METRICS -->
-
 <!-- END METRICS -->
 
