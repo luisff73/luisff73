@@ -35,5 +35,6 @@
  </div>
 
 <!-- METRICS -->
+[![github-metrics.svg](https://github.com/luisff73/nodejs-blog-practica/raw/main/github-metrics.svg)](https://github.com/luisff73/nodejs-blog-practica/raw/main/github-metrics.svg)
 <!-- END METRICS -->
 
