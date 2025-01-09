@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=aws,ps,docker,git,css,powershell,mysql,github,html,java,js,mongodb,php,vscode,windows,Xpath,XML,a=15" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=ps,docker,git,css,powershell,mysql,github,html,java,js,mongodb,php,vscode,windows,Xpath,XML,a=15" style="max-width: 100%;">
   </a>
 </div>
 
