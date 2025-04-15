@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="50"> I'm Luis Ferri Juan</h1>
+  <h1>Hi,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="50"> I'm Luis Ferri</h1>
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </div>
 
